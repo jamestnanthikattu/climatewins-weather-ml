@@ -16,9 +16,6 @@ The goal is to explore which models can best predict weather patterns and identi
 ## 🔍 Files
 - `ClimateWins_Presentation_JamesNanthikattu.pptx`: A presentation summarizing methods, findings, and next steps for future analysis.
 
-## 📧 Contact
-For any questions, feel free to reach out:  
-**JamesNanthikattu@email.com**
 
 ## 🔗 More Coming Soon
 Future additions may include the dataset, Jupyter Notebook, and scripts used for analysis.
